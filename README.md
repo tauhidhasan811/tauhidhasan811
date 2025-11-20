@@ -19,7 +19,6 @@ I'm an enthusiastic AI Engineer with hands-on experience in developing, deployin
 
 ---
 
-
 ### 📚 Education
 
 * **Bachelor of Science in Computer Science & Engineering**
