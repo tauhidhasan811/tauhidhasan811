@@ -88,14 +88,6 @@ I'm an enthusiastic AI Engineer with hands-on experience in developing, deployin
 * **Database:** MSSQL, Oracle SQL
 * **Programming Languages:** Python, C#, C++, Java, PHP, SQL
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tauhidhasan811&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidhasan811&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 # 📊 GitHub Stats:
