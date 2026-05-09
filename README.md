@@ -9,7 +9,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tauhidhasan811" alt="GitHub Profile Trophies" />
   </a>
 </p>
-### 👨‍💻 About Me
+
+# 👨‍💻 About Me
 
 I'm an enthusiastic AI Engineer with hands-on experience in developing, deploying, and optimizing machine learning solutions. I specialize in deep learning, computer vision, and natural language processing (NLP), with a particular focus on practical applications of AI. I love solving complex problems and collaborating with a global community of developers and researchers. My professional interests also include cloud computing and building scalable data pipelines.
 
@@ -50,17 +51,7 @@ I'm an enthusiastic AI Engineer with hands-on experience in developing, deployin
 * **Programming Languages:** Python, C#, C++, Java, PHP, SQL
 
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tauhidhasan811&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tauhidhasan811&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidhasan811&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=tauhidhasan811&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thidhsn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tauhid.hasan.146069) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tauhid-hasan-51171a23b) 
