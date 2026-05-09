@@ -34,9 +34,6 @@ I'm an enthusiastic AI Engineer with hands-on experience in developing, deployin
 
 ---
 
-
----
-
 ### 👨‍💻 Skills & Expertise
 
 **Artificial Intelligence & Machine Learning**
