@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=tauhidhasan811&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
+  <a href="mailto:tauhidhasan811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tauhidhasan811@gmail.com-red?style=flat&logo=gmail"></a>
+</p>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tauhidhasan811" alt="GitHub Profile Trophies" />
   </a>
@@ -52,3 +55,4 @@ I'm an enthusiastic AI Engineer with hands-on experience in developing, deployin
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thidhsn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tauhid.hasan.146069) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tauhid-hasan-51171a23b) 
+<a href="mailto:tauhidhasan811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tauhidhasan811@gmail.com-red?style=flat&logo=gmail"></a>
